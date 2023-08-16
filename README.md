@@ -292,3 +292,5 @@ plt.show()
 ## Task 5: Video Blurring
 
 1. Choose one of the blurs from Task 4 and apply it to video frames. Don't use matplotlib for this task as it will be too slow, use _cv2.imshow()_ instead.
+
+**Attendance Form for this Week : https://forms.gle/w93C5uDbD33mAi5x6**
